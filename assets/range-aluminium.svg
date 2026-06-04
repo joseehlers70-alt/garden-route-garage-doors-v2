@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Modern aluminium garage door placeholder</title><desc id="desc">Photo-style modern home facade with a wide aluminium sectional garage door.</desc>
+<defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .13"/></feComponentTransfer></filter><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#52606d"/><stop offset="1" stop-color="#15191f"/></linearGradient><linearGradient id="door" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a9b2bd"/><stop offset=".45" stop-color="#66717d"/><stop offset="1" stop-color="#2c333c"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#sky)"/><rect width="900" height="620" filter="url(#grain)" opacity=".42"/>
+<path d="M0 430h900v190H0z" fill="#151719"/><path d="M120 438h660l90 182H30z" fill="#2b2f34"/><path d="M125 438h650" stroke="#f2a93b" stroke-opacity=".22" stroke-width="4"/>
+<path d="M110 170h680v285H110z" fill="#1d2229"/><path d="M160 118h340l70 52H110z" fill="#2c333b"/><path d="M500 118h260l30 52H570z" fill="#11151a"/>
+<rect x="175" y="220" width="420" height="235" rx="4" fill="url(#door)"/><g stroke="#15191f" stroke-opacity=".7" stroke-width="5"><path d="M175 263h420M175 306h420M175 349h420M175 392h420"/></g><path d="M190 238h390" stroke="#fff" stroke-opacity=".26" stroke-width="3"/>
+<rect x="632" y="218" width="98" height="112" fill="#0b0e12"/><path d="M644 230h74v88h-74z" fill="#26323d"/><path d="M650 236h62" stroke="#fff" stroke-opacity=".18"/>
+<rect x="0" y="0" width="900" height="620" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
