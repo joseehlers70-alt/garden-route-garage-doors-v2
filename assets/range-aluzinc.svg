@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Aluzinc garage door placeholder</title><desc id="desc">Photo-style coastal property facade with a durable steel grey aluzinc garage door.</desc>
+<defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".72" numOctaves="3"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .12"/></feComponentTransfer></filter><linearGradient id="door" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#87919d"/><stop offset=".52" stop-color="#48525d"/><stop offset="1" stop-color="#222831"/></linearGradient></defs>
+<rect width="900" height="620" fill="#1b2027"/><rect width="900" height="620" filter="url(#grain)" opacity=".5"/>
+<path d="M0 360c150-34 250-12 390-24 210-18 320-58 510-20v304H0z" fill="#29313a"/><path d="M0 468h900v152H0z" fill="#131518"/>
+<path d="M95 145h710v330H95z" fill="#222832"/><path d="M95 145h710l-52-54H150z" fill="#3a414b"/><rect x="148" y="216" width="470" height="260" rx="4" fill="url(#door)"/><g stroke="#11151a" stroke-opacity=".72" stroke-width="4"><path d="M148 254h470M148 292h470M148 330h470M148 368h470M148 406h470M148 444h470"/></g><path d="M166 230h432" stroke="#fff" stroke-opacity=".18" stroke-width="3"/>
+<rect x="652" y="216" width="98" height="132" rx="2" fill="#0e1115"/><path d="M668 232h66v100h-66z" fill="#2c3540"/>
+<path d="M160 485h455" stroke="#f2a93b" stroke-opacity=".25" stroke-width="4"/>
+</svg>
