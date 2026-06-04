@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Wooden garage door placeholder</title><desc id="desc">Photo-style residential facade with warm wooden sectional garage door.</desc>
+<defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".64" numOctaves="4"/><feColorMatrix type="saturate" values=".45"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer></filter><linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a26634"/><stop offset=".48" stop-color="#72431f"/><stop offset="1" stop-color="#3c2414"/></linearGradient></defs>
+<rect width="900" height="620" fill="#171a1f"/><rect x="0" y="388" width="900" height="232" fill="#252629"/><path d="M90 150h720v305H90z" fill="#27231f"/><path d="M90 150l90-62h540l90 62z" fill="#3a332b"/>
+<rect x="164" y="218" width="462" height="237" rx="4" fill="url(#wood)"/><rect x="164" y="218" width="462" height="237" filter="url(#grain)" opacity=".65"/><g stroke="#251509" stroke-opacity=".6" stroke-width="4"><path d="M164 258h462M164 298h462M164 338h462M164 378h462M164 418h462"/><path d="M258 218v237M356 218v237M454 218v237M552 218v237" opacity=".45"/></g><path d="M182 235h420" stroke="#fff" stroke-opacity=".14" stroke-width="3"/>
+<rect x="660" y="220" width="88" height="125" fill="#101317"/><path d="M670 232h68v100h-68z" fill="#202935"/>
+<path d="M145 468h520" stroke="#f2a93b" stroke-opacity=".22" stroke-width="4"/>
+</svg>
